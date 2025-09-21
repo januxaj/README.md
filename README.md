@@ -9,7 +9,7 @@
 
 <br>
 <p align="center"> 
-  <img src="https://profile-counter.glitch.me/edwine-nyakundi/count.svg" />
+  <img src="https://profile-counter.glitch.me/januxaj/count.svg" />
 </p>
 
 
@@ -17,4 +17,4 @@
 <br>
 
 <div align="center">	
-<img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=nightowl&locale=en&hide_border=false&username=edwine-nyakundi" height="130" alt="stats graph"  />
+<img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=nightowl&locale=en&hide_border=false&username=januxaj" height="130" alt="stats graph"  />
